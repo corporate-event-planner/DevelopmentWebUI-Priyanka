@@ -5,19 +5,19 @@
 ## Team Members
 
   <img
-    src="https://media.licdn.com/dms/image/C5603AQF7ZNPlmP0waQ/profile-displayphoto-shrink_800_800/0?e=1567036800&v=beta&t=1QUArRF3YYt9sGrasu4v1HmtmnZokvFK0NoZov0q27E"
+    src="https://avatars1.githubusercontent.com/u/42783252?s=400&u=d6fd0a33bb7e4930ca2284ad319b415335df6d8f&v=4"
     width = "100"/>
 
   <img
-    src="https://media.licdn.com/dms/image/C5603AQGJHGI-qeIcqA/profile-displayphoto-shrink_800_800/0?e=1567036800&v=beta&t=drzPCrpHqvjoT_HhdvBq_IK8N9wKzBK0OcM82psvnW8"
+    src="https://avatars3.githubusercontent.com/u/3281797?s=400&u=f96038202dd32c77f63f0b0efc3e3e228c0cd112&v=4"
     width = "100"/>
 
   <img
-    src="https://media.licdn.com/dms/image/C5603AQGjJt2ymORKvQ/profile-displayphoto-shrink_800_800/0?e=1567036800&v=beta&t=2UQymwb348ODf6VlBSdrPk3r3zLVlbAqeu1oHlmaOTY"
+    src="https://avatars2.githubusercontent.com/u/49916365?s=400&u=7e8c990c4f82838579a699cff861a8da6555e32c&v=4"
     width = "100"/>
 
   <img
-    src="https://media.licdn.com/dms/image/C5603AQEN-8okgUBigw/profile-displayphoto-shrink_800_800/0?e=1567036800&v=beta&t=GgPwYYwVj-ooZvuLpHsdJ9eq_sUxo1dvjVHFgvX0CmI"
+    src="https://avatars2.githubusercontent.com/u/44327370?s=400&u=f34ac7e190591e557a09506a7b99f4eb49dfa669&v=4"
     width = "100"/>
 
   <img
@@ -25,11 +25,11 @@
     width = "100"/>
 
   <img
-    src="https://media.licdn.com/dms/image/C5603AQFoA2MdR54Y6Q/profile-displayphoto-shrink_800_800/0?e=1567036800&v=beta&t=RgQzOxiavaemJCaaTzqDVrjKilmsxCmnkBn3wcaFPVs"
+    src="https://avatars2.githubusercontent.com/u/19537074?s=400&u=f092124e4044e8bb30ce2bfdd75a8eed9b94b6ce&v=4"
     width = "100"/>
 
   <img
-    src="https://media.licdn.com/dms/image/C4E03AQGYsVNnOSzBkQ/profile-displayphoto-shrink_800_800/0?e=1567036800&v=beta&t=xtRGYvEuSxfivlOD872bqpxfo6D_nb25v74WAAw_Ae0"
+    src="https://avatars3.githubusercontent.com/u/41089389?s=400&u=a9ff5bc5679067c11610744959737fb939c4d273&v=4"
     width = "100"/>
 
    <img
